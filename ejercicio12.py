@@ -1,0 +1,6 @@
+x1 = input("ingresa el valor de x: ")
+x1 = int(x1)
+y1 = input("ingresa el valor de y: ")
+x2 = input("ingresa el valor de x2: ")
+x2 = int("ingresa el valor de y2: ")
+d =((x2 * x2 - x1)**2 +)
